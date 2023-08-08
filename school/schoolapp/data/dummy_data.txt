@@ -1,0 +1,60 @@
+171001, St. Xavier's School, Shimla
+171001, ABC Public School, Shimla
+171001, XYZ Academy, Shimla
+171001, Sunrise International School, Shimla
+171001, Bright Minds School, Shimla
+171001, Greenwood High School, Shimla
+171001, Silver Oak School, Shimla
+171001, Happy Kids Academy, Shimla
+171001, Maple Tree School, Shimla
+171001, Springdale, Shimla
+176001, Kendriya Vidyalaya, Kangra
+176001, Sacred Heart Convent School, Kangra
+176001, Mount Carmel School, Kangra
+176001, DPS Kangra, Kangra
+176001, D.A.V. Public School, Kangra
+176001, Army Public School, Kangra
+176001, Kangra Valley School, Kangra
+176001, Kangra Public School, Kangra
+176001, Green Hills Public School, Kangra
+176001, Tibetan Children's Village School, Kangra
+175001, Government Senior Secondary School, Mandi
+175001, St. Joseph's Convent School, Mandi
+175001, Himalayan Public School, Mandi
+175001, DPS Mandi, Mandi
+175001, D.A.V. Public School, Mandi
+175001, Army Public School, Mandi
+175001, Mandi Valley School, Mandi
+175001, Mandi Public School, Mandi
+175001, Greenwood High School, Mandi
+175001, Sacred Heart School, Mandi
+173212, Government Senior Secondary School, Solan
+173212, St. Mary's Convent School, Solan
+173212, Himalayan Public School, Solan
+173212, DPS Solan, Solan
+173212, D.A.V. Public School, Solan
+173212, Army Public School, Solan
+173212, Solan Valley School, Solan
+173212, Solan Public School, Solan
+173212, Greenwood High School, Solan
+173212, Sacred Heart School, Solan
+174303, Government Senior Secondary School, Una
+174303, St. Anthony's Convent School, Una
+174303, Himalayan Public School, Una
+174303, DPS Una, Una
+174303, D.A.V. Public School, Una
+174303, Army Public School, Una
+174303, Una Valley School, Una
+174303, Una Public School, Una
+174303, Greenwood High School, Una
+174303, Sacred Heart School, Una
+176310, Government Senior Secondary School, Chamba
+176310, St. Mary's Convent School, Chamba
+176310, Himalayan Public School, Chamba
+176310, DPS Chamba, Chamba
+176310, D.A.V. Public School, Chamba
+176310, Army Public School, Chamba
+176310, Chamba Valley School, Chamba
+176310, Chamba Public School, Chamba
+176310, Greenwood High School, Chamba
+176310, Sacred Heart School, Chamba
